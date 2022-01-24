@@ -4,6 +4,7 @@
 <h3 align="center">I am a sophomore at IIIT Gwalior</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 - 🌱 I’m currently learning **React, ML and DSA**
 
 - 📝 You can find my articles at [https://medium.com/@tejal_1303](https://medium.com/@tejal_1303)
